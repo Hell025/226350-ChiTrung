@@ -1,3 +1,4 @@
 Name: Chi Trung  
 Interests: Coding, Design  
 Skills: HTML, CSS, Git
+Degree: University
